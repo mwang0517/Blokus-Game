@@ -1,2 +1,2 @@
-# Blocks-Game
+# Blokus-Game
 A software group project
