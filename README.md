@@ -1,2 +1,2 @@
-# Chomps-Game
+# Blocks-Game
 A software group project
